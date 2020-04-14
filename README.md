@@ -3,7 +3,7 @@ Small game in Cyberpunk style ;)
 
 You must to jump over enemies. Also you can see your score in terminal when you lose.
 
-Requirements: module PyGame must be installed.
+Using: start the game.py. Requirements: module PyGame must be installed.
 
 Screens:
 
