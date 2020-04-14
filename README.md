@@ -5,7 +5,7 @@ You must to jump over enemies. Also you can see your score in terminal when you 
 
 Using: start the game.py. Requirements: module PyGame must be installed.
 
-Screens:
+Screenshots:
 
 ![Снимок экрана в 2020-04-14 20-40-12](https://user-images.githubusercontent.com/51692800/79244541-731ea500-7e90-11ea-86a3-449c29124ad7.png)
 
