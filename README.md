@@ -3,7 +3,14 @@ Small game in Cyberpunk style ;)
 
 You must to jump over enemies. Also you can see your score in terminal when you lose.
 
-Using: start the game.py. Requirements: module PyGame must be installed.
+## Usage:
+
+```bash
+  $ git clone https://github.com/h4cktivist/Cyberpunk2078.git
+  $ cd Cyberpunk2078
+  $ pip install -r requirements.txt
+  $ pyhton3 game.py
+```
 
 Screenshots:
 
