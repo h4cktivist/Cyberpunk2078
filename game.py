@@ -1,18 +1,20 @@
 import pygame
 from pygame import mixer
 
+
 pygame.init()
 window = pygame.display.set_mode((1280, 608))
 pygame.display.set_caption("Cyberpunk 2078")
 
-music = pygame.mixer.music.load('sound.mp3')
+music = pygame.mixer.music.load('static/sound.mp3')
 pygame.mixer.music.play(-1, 0.0)
 
-char = pygame.image.load('char.png')
-enemy = pygame.image.load('enemy.png')
-bg = pygame.image.load('bg.png')
+char = pygame.image.load('static/char.png')
+enemy = pygame.image.load('static/enemy.png')
+bg = pygame.image.load('static/bg.png')
 
-lose_sign = pygame.image.load('lose.png')
+lose_sign = pygame.image.load('static/lose.png')
+
 
 x_char = 120
 y_char = 410
